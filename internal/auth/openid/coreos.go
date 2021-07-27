@@ -18,7 +18,7 @@ import (
 	"context"
 
 	"github.com/coreos/go-oidc/v3/oidc"
-	"gitub.com/atye/ttchat/internal/auth"
+	"github.com/modprog/ttchat/internal/auth"
 )
 
 type CoreOSVerifier struct {

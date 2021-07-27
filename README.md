@@ -6,14 +6,14 @@ Connect to a Twitch channel's chat from your terminal
 
 ### Download release
 
-See https://github.com/atye/ttchat/releases.
+See https://github.com/modprog/ttchat/releases.
 
 ### With Go
 
-```go get github.com/atye/ttchat```
+```go get github.com/modprog/ttchat```
 
 ### Clone and build
-```git clone https://github.com/atye/ttchat.git```
+```git clone https://github.com/modprog/ttchat.git```
 
 ```make build```
 

@@ -19,7 +19,7 @@ import (
 	"testing"
 
 	"github.com/charmbracelet/lipgloss"
-	"gitub.com/atye/ttchat/internal/types"
+	"github.com/modprog/ttchat/internal/types"
 )
 
 // build a Private Message

@@ -18,8 +18,8 @@ import (
 	"fmt"
 
 	"github.com/gempir/go-twitch-irc/v2"
-	"gitub.com/atye/ttchat/internal/irc"
-	"gitub.com/atye/ttchat/internal/types"
+	"github.com/modprog/ttchat/internal/irc"
+	"github.com/modprog/ttchat/internal/types"
 )
 
 type Gempir struct {
